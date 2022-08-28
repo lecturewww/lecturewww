@@ -14,7 +14,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![NODE.JS](https://img.shields.io/badge/-NODEJS-F05032?style=for-the-badge&logo=css3&loloColor=0000ff)
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
-![NODE.JS] (https://img.shields.io/badge/NODE.JS-GIT-orange)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-GIT-orange)
 <!--
 **lecturewww/lecturewww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
