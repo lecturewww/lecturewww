@@ -9,7 +9,7 @@
 
 🐱‍👤🐵🐶🐺🐱🦁🐯🦒🦊
 
-![HTML5]![CSS3](https://img.shields.io/badge/HTML5-CSS3-blue)
+![HTML5](https://img.shields.io/badge/HTML5-CSS3-blue)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-GIT-orange)
