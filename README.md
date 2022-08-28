@@ -6,12 +6,15 @@
 🤖 Specialized in JavaScript training for web developers <br>
 💩 여기있는 코드와 실습내용은 직접직성되었거나 공개코드를 이용했습니다.<br>
 ☠ 연락처 : yunhateacher@naver.com
+
 🐱‍👤🐵🐶🐺🐱🦁🐯🦒🦊
 
-![HTML5](https://img.shields.io/badge/HTML5-CSS3-blue)
+![HTML5]![CSS3](https://img.shields.io/badge/HTML5-CSS3-blue)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-GIT-orange)
+
+
 <!--
 **lecturewww/lecturewww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
