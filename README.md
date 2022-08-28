@@ -10,7 +10,7 @@
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=css3&loloColor=ffffff)
-(https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&loloColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-F05032?style=for-the-badge&logo=css3&loloColor=0000ff)
 
 
 <!--
