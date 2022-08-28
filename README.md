@@ -1,10 +1,10 @@
 <h1> Hello, there! </h1>
  
 👽 Instructor at 코드사이언스 아카데미 <br>
-👻 웹 관련 개인레슨, 웹개발자를 위한 "자바스크립트" 교육에 특화되어 있습니다<br>
-👾 Specialized in JavaScript training for web developers <br>
-🤖 웹에이전시 웹개발자를 위한 자바스크립트 전문교육 진행합니다<br>
-💩여기있는 코드와 실습내용은 직접직성되었거나 공개코드를 이용했습니다.<br>
+👻 빠른 웹 개발 경력을 위한 개인레슨 진행합니다.<br>
+👾 웹에이전시 웹개발자를 위한 자바스크립트 전문교육 진행합니다<br>
+🤖 Specialized in JavaScript training for web developers <br>
+💩 여기있는 코드와 실습내용은 직접직성되었거나 공개코드를 이용했습니다.<br>
 
 
 ☠🐱‍👤🐵🐶🐺🐱🦁🐯🦒🦊
